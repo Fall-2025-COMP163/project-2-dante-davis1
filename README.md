@@ -1,5 +1,24 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/mMxhKicI)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=21561521&assignment_repo_type=AssignmentRepo)
+Bonus Features: 
+
+I provided clear and consistent documentation through docstrings and comments for each class and function which makes it very easy to know what each part of the code does. Also, I ensured that the attacks and abilities of each character class are balanced and legible, thus making the game logic simple yet structured.
+
+AI Usage:
+
+The AI support was primarily in quality control of formatting, inheritance structure, and method overriding.
+
+How to Run:
+
+After it's running, the terminal will show the game introduction printed with messages like:
+
+=== CHARACTER ABILITIES SHOWCASE ===
+Testing inheritance, polymorphism, and method overriding
+==================================================
+
+Then you will be able to see the character's stats as well as the workings of their unique attacks.
+You can follow the actions of the warriors, mages, and rogues as they carry out different types of attacks and perform their special abilities.
+It is a text-based demonstration that illustrates inheritance, polymorphism, and composition; hence, you will observe different results depending on which character strikes first.
+
+
 # COMP 163 - Project 2: Character Abilities Showcase
 
 ## 🎯 Project Overview
